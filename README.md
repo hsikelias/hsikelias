@@ -1,5 +1,5 @@
 <!--whiplash gif-->
-
+![Whiplash Gif](assets/playing-drums-miles-teller.gif)
 
 <p align="center">
   <samp>
