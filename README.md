@@ -1,7 +1,5 @@
-### Most Used Langu
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsikelias&layout=pie)
-
-
+<!--whiplash gif-->
+[![Whiplash Gif](https://tenor.com/view/playing-drums-miles-teller-andrew-whiplash-drumming-gif-18304962)]
 
 <p align="center">
   <samp>
