@@ -1,6 +1,6 @@
 <!--whiplash gif-->
 <p align="center">
-  <img src="assets/playing-drums-miles-teller.gif" width=100%>
+  <img src="assets/playing-drums-miles-teller.gif" width=80%>
 </p>
 
 <p align="center">
