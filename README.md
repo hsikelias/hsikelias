@@ -13,6 +13,9 @@
 ----------------
 ## About Me
 I'm passionate about designing and building apps
+- **email:** 
+- **resume/cv:** <!-- [My Resume/CV](https://drive.google.com) -->
+
 <!-- Update info here later -->
 
 <!-- Profile Viewers -->
