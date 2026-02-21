@@ -1,13 +1,18 @@
-<!--whiplash gif-->
+<!-- Whiplash gif -->
 <p align="center">
   <img src="assets/playing-drums-miles-teller.gif" width=80%>
 </p>
 
+<!-- Profile Viewers -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias"/> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias" /> </p>
 
 
+<!-- Recent Painting -->
+<b> A recent painting I did</b>
+---
 
+<!-- Bottom Social Icons-->
 <p align="center">
   <samp>
     <a href="https://www.youtube.com/@vannneilart">youtube</a> .
