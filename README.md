@@ -22,6 +22,8 @@ I'm passionate about designing and building apps
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsikelias)](https://github.com/anuraghazra/github-readme-stats)
 
+---------
+
 ## Tech Stack 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
