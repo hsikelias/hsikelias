@@ -9,7 +9,7 @@
 
 
 <!-- Recent Painting -->
-<b> A recent painting I did</b>
+<h3> A recent painting I did</h3>
 <p align = "center">
   <img src="assets/Nest.jpeg" width=100%>
 </p>
