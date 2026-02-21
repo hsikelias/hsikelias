@@ -3,7 +3,6 @@
   <img src="assets/playing-drums-miles-teller.gif" width=80%>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias" /> </p>
 
