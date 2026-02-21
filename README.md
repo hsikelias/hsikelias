@@ -8,8 +8,10 @@
 ------------------
 
 <!-- About -->
+
 ## 👤 About Me
 <!-- Update info here later -->
+
 --------------
 
 ## 🪛 Tech Stack 
@@ -20,11 +22,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
-<!-- -->
+--------------------
+
 <!-- Profile Viewers -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias"/> </p>
 
-
+-----------------
 
 <!-- Recent Painting -->
 <h3> A recent painting I did</h3>
