@@ -10,6 +10,7 @@
 <!-- About -->
 ![gitartwork](gitartwork.svg)
 
+----------------
 ## About Me
 I'm passionate about designing and building apps
 <!-- Update info here later -->
