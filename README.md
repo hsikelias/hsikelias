@@ -9,8 +9,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsikelias&show_icons=true&locale=en&layout=compact" alt="hsikelias" /></p>
-
 <p align="center">
   <samp>
     <a href="https://www.youtube.com/@vannneilart">youtube</a> .
