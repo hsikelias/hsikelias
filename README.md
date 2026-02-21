@@ -15,11 +15,12 @@
 I'm passionate about designing and building apps
 <!-- Update info here later -->
 
-
 <!-- Profile Viewers -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias"/> </p>
 
 --------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsikelias)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
