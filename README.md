@@ -8,6 +8,7 @@
 ------------------
 
 <!-- About -->
+![gitartwork](gitartwork.svg)
 
 ## About Me
 <!-- Update info here later -->
