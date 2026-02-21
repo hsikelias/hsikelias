@@ -10,6 +10,7 @@
 
 <!-- Recent Painting -->
 <b> A recent painting I did</b>
+
 ---
 
 <!-- Bottom Social Icons-->
