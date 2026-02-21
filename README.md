@@ -13,7 +13,8 @@
 <p align = "center">
   <img src="assets/Nest.jpeg" width=100%>
 </p>
----
+
+----------
 
 <!-- Bottom Social Icons-->
 <p align="center">
