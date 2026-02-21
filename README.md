@@ -3,6 +3,24 @@
   <img src="assets/playing-drums-miles-teller.gif" width=80%>
 </p>
 
+<!-- Add a personal banner here later-->
+
+------------------
+
+<!-- About -->
+## 👤 About Me
+<!-- Update info here later -->
+--------------
+
+## 🪛 Tech Stack 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+
+<!-- -->
 <!-- Profile Viewers -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hsikelias&label=Profile%20views&color=0e75b6&style=flat" alt="hsikelias"/> </p>
 
