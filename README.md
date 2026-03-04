@@ -5,11 +5,6 @@
 
 <!-- Add a personal banner here later-->
 
-------------------
-
-<!-- About -->
-![gitartwork](gitartwork.svg)
-
 ----------------
 ## About Me
 I'm passionate about designing and building apps
