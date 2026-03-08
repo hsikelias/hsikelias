@@ -9,7 +9,7 @@
 ## About Me
 I'm passionate about designing and building apps
 - **email:** plekishsai@gmail.com
-- **resume/cv:** https://drive.google.com/file/d/1GLu_ieAblzQcqQvKbu6mrFyyckSSG2Q2/view?usp=sharing
+
 
 <!-- Update info here later -->
 
