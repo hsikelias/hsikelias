@@ -5,8 +5,7 @@
 
 <!-- Add a personal banner here later-->
 
-----------------
-## About Me
+
 code and design
 
 
