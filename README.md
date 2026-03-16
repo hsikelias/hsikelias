@@ -7,8 +7,8 @@
 
 ----------------
 ## About Me
-I'm passionate about designing and building apps
-- **email:** plekishsai@gmail.com
+code and design
+
 
 
 <!-- Update info here later -->
