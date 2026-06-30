@@ -8,7 +8,7 @@
 
 code and design
 
-
+[![Vann Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsikelias)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Update info here later -->
 
