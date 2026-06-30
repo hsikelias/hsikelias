@@ -1,6 +1,7 @@
 <!-- Whiplash gif -->
 <p align="center">
-  <img src="https://tenor.com/view/hajimenoippoend-hajime-ippo-gif-27384731" width=80%>
+  <img src="https://media1.tenor.com/m/oyr542jkTpsAAAAd/hajimenoippoend-hajime.gif" alt="ippo" width=80% />
+  <i>what does it mean to be strong?</i>
 </p>
 
 <!-- Add a personal banner here later-->
