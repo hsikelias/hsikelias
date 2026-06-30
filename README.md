@@ -1,6 +1,6 @@
 <!-- Whiplash gif -->
 <p align="center">
-  <img src="assets/playing-drums-miles-teller.gif" width=80%>
+  <img src="https://tenor.com/view/hajimenoippoend-hajime-ippo-gif-27384731" width=80%>
 </p>
 
 <!-- Add a personal banner here later-->
