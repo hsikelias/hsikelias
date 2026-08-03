@@ -2,13 +2,14 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/oyr542jkTpsAAAAd/hajimenoippoend-hajime.gif" alt="ippo" width=80% />
   <br>
-  <i>what does it mean to be strong?</i>
+  <i>artist and a developer</i>
 </p>
 
 <!-- Add a personal banner here later-->
-
-code and design ✌ 
-
+<div align="center">
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hsikelias&layout=donut-vertical&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=hsikelias&layout=donut-vertical&langs_count=6&theme=transparent)
+</div>
 <!-- Update info here later -->
 
 
